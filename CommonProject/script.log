@@ -1,0 +1,5 @@
+项目工作目录:/Users/jinjing/code/CommonProject
+无须重复添加jacoco插件
+compile_for_code_coverage() success.
+add_codecov_mlf_component() success.
+generate_codecov_report_task() success.
